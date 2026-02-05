@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Maker</title>
+    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form>
+        <label for="nome">Nome gioco</label>
+        <input type="text" name="nome" id="nome"><br>
+        <label for="tag">Tag giochi</label>
+        <input type="text" name="tag" id="tag" pattern="^[^,]+(,[^,]+)*$"><br>
+        <label for="prezzo">Prezzo</label>
+        <input type="text" pattern="^\d+(\.\d+)?$" id="prezzo" name="prezzo"><br>
+        <label for="studio">Studio</label>
+        <input type="text" name="studio" id="studio"><br>
+        <label for="piattaforme">Piattaforme</label>
+        <input type="text" name="piattaforme" id="piattaforme" pattern="^[^,]+(,[^,]+)*$"><br>
+        <label for="pegi">PEGI</label>
+        <input id="pegi" name="pegi" type="number"><br>
+        <input type="checkbox" name="Cross-Play" id="Cross-Play">
+        <label for="Cross-Play">Cross-Play</label><br><br>
+        <input type="submit" name="Invia" id="Invia" value="Invia" onclick="parse(this);">
+        <input type="reset" name="Reset" id="Reset" value="Reset"><br>
+
+        <label for="JSON">Output JSON:</label><br>
+        <textarea name="JSON" id="JSON" rows="30" cols="60" readonly></textarea>
+    </form>
+</body>
+</html>
