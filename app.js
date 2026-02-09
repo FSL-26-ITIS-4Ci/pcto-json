@@ -9,16 +9,24 @@ function parse(sender){
     const textarea = document.getElementById("JSON");
     const json = {};
     
+    
+
     for (let [key, value] of formData.entries()) {
         if(key == "tag" || key == "piattaforme"){
             json[key] = value.split(",").map(item => item.trim());
-        } else if(key == "Cross-Play"){
-            json[key] = value === "on";
         } else {
             json[key] = value;
         }
     }
-    
+
+    json["Cross-Play"] = false;
+    for(let [key, value] of formData.entries()){
+        if(key == "Cross-Play"){
+            json[key] = value === "on";
+        }
+    }
+
+
     delete json.JSON;
     textarea.value = JSON.stringify(json, null, 2); 
 }
