@@ -11,8 +11,9 @@
     <form>
         <label for="nome">Nome gioco</label>
         <input type="text" name="nome" id="nome"><br>
-        <label for="tag">Tag giochi</label>
-        <input type="text" name="tag" id="tag" pattern="^[^,]+(,[^,]+)*$"><br>
+        <details id="tag" name="tag">
+            <summary>Tag</summary>
+        </details>
         <label for="prezzo">Prezzo</label>
         <input type="text" pattern="^\d+(\.\d+)?$" id="prezzo" name="prezzo"><br>
         <label for="studio">Studio</label>
@@ -25,7 +26,6 @@
         <label for="crossPlay">Cross-Play</label><br><br>
         <input type="submit" name="Invia" id="Invia" value="Invia" onclick="parse(this);">
         <input type="reset" name="Reset" id="Reset" value="Reset"><br>
-
         <label for="JSON">Output JSON:</label><br>
         <textarea name="JSON" id="JSON" rows="30" cols="60" readonly></textarea>
     </form>
