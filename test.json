@@ -18,6 +18,7 @@
     "Switch"
   ],
   "pegi": "18",
+  "imgPath": "img/GTA.jpeg",
   "crossPlay": false
 },
 {
@@ -41,6 +42,7 @@
     "Switch"
   ],
   "pegi": "18",
+  "imgPath": "img/RED.jpeg",
   "crossPlay": false
 },
 {
@@ -62,6 +64,7 @@
     "Mobile"
   ],
   "pegi": "12",
+  "imgPath": "img/FORTNITE.jpeg",
   "crossPlay": true
 },
 {
@@ -82,6 +85,7 @@
     "Switch"
   ],
   "pegi": "3",
+  "imgPath": "img/FC26.jpeg",
   "crossPlay": true
 },
 {
@@ -104,6 +108,7 @@
     "PC"
   ],
   "pegi": "18",
+  "imgPath": "img/LAST.jpeg",
   "crossPlay": false
 },
 {
@@ -125,6 +130,7 @@
     "PLAYSTATION"
   ],
   "pegi": "18",
+  "imgPath": "img/GOD.jpeg",
   "crossPlay": false
 },
 {
@@ -152,6 +158,7 @@
     "SWITCH"
   ],
   "pegi": "18",
+  "imgPath": "img/VILLAGE.jpeg",
   "crossPlay": false
 },
 {
@@ -176,6 +183,7 @@
     "XBOX"
   ],
   "pegi": "16",
+  "imgPath": "img/ELDEN.jpeg",
   "crossPlay": true
 },
 {
@@ -199,6 +207,7 @@
     "SWITCH"
   ],
   "pegi": "18",
+  "imgPath": "img/CYBER.jpeg",
   "crossPlay": true
 },
 {
@@ -221,6 +230,7 @@
     "SWITCH"
   ],
   "pegi": "3",
+  "imgPath": "img/NBA.jpeg",
   "crossPlay": true
 },
 {
@@ -242,6 +252,7 @@
     "SWITCH"
   ],
   "pegi": "18",
+  "imgPath": "img/HITMAN.jpeg",
   "crossPlay": false
 },
 {
@@ -266,6 +277,7 @@
     "PLAYSTATION"
   ],
   "pegi": "18",
+  "imgPath": "img/DEATH.jpeg",
   "crossPlay": true
 },
 {
@@ -286,6 +298,7 @@
     "XBOX"
   ],
   "pegi": "12",
+  "imgPath": "img/FORZA.jpeg",
   "crossPlay": true
 },{
   "nome": "Ghost of Yotei",
@@ -307,6 +320,7 @@
     "PLAYSTATION"
   ],
   "pegi": "18",
+  "imgPath": "img/GHOST.jpeg",
   "crossPlay": false
 },{
   "nome": "The Elder Scrolls V:Skyrim",
@@ -334,8 +348,10 @@
     "XBOX"
   ],
   "pegi": "18",
+  "imgPath": "img/SKYRIM.jpeg",
   "crossPlay": false
 }
+
 
 
 ]
