@@ -30,7 +30,7 @@ function parse(sender){
         } else if(key === "tag"){
             json[key] = null;
         } else if(key == "imgPath"){
-            value = "img/" + value + ".json";
+            value = "img/" + value + ".jpeg";
             json[key] = value;
         } else{
             json[key] = value;
