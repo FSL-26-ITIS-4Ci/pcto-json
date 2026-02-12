@@ -11,13 +11,15 @@
   ],
   "prezzo": "14.99",
   "studio": "Rockstar games",
+  "desc": "GTA (Grand Theft Auto) è un gioco d’azione in cui il giocatore controlla un personaggio che vive in una grande città aperta. Si possono guidare auto, moto e altri veicoli, completare missioni, esplorare liberamente la mappa e interagire con tanti personaggi. Il gioco è famoso per la libertà che offre e per le sue storie coinvolgenti legate al mondo del crimine.",
   "piattaforme": [
-    "Playstation",
-    "Xbox",
+    "PLAYSTATION",
+    "XBOX",
     "PC",
-    "Switch"
+    "SWITCH"
   ],
   "pegi": "18",
+  "anno": "2013",
   "imgPath": "img/GTA.jpeg",
   "crossPlay": false
 },
@@ -35,13 +37,15 @@
   ],
   "prezzo": "19.99",
   "studio": "Rockstar Games",
+   "desc":"Red Dead Redemption è un videogioco d’azione e avventura ambientato nel Far West. Il giocatore esplora un grande mondo aperto con praterie, città e deserti, completando missioni e vivendo una storia intensa. Si possono cavalcare cavalli, usare armi dell’epoca e interagire con molti personaggi. È famoso per la sua trama emozionante e l’ambientazione realistica."
   "piattaforme": [
-    "Playstation",
-    "Xbox",
+    "PLAYSTATION",
+    "XBOX",
     "PC",
-    "Switch"
+    "SWITCH"
   ],
   "pegi": "18",
+  "anno": "2018",
   "imgPath": "img/RED.jpeg",
   "crossPlay": false
 },
@@ -56,14 +60,16 @@
   ],
   "prezzo": "0.00",
   "studio": "Epic Games ",
+  "desc":"Fortnite è un videogioco online molto popolare in cui 100 giocatori si sfidano in una grande mappa in modalità “Battle Royale”. L’obiettivo è essere l’ultimo a rimanere in vita. Si possono raccogliere armi, costruire strutture per difendersi e giocare con amici. È famoso per il suo stile colorato, le skin dei personaggi e gli eventi speciali."
   "piattaforme": [
-    "Playstation",
-    "Xbox",
+    "PLAYSTATION",
+    "XBOX",
     "PC",
-    "Switch",
-    "Mobile"
+    "SWITCH",
+    "MOBILE"
   ],
   "pegi": "12",
+  "anno": "2017",
   "imgPath": "img/FORTNITE.jpeg",
   "crossPlay": true
 },
@@ -78,13 +84,15 @@
   ],
   "prezzo": "79.99",
   "studio": "Eletronic Arts",
+  "desc":"FC26 è un videogioco di calcio che permette di giocare con squadre e giocatori reali, partecipando a campionati, tornei e partite online. Offre grafica realistica, modalità carriera, Ultimate Team e multiplayer contro altri giocatori. È famoso per il gameplay coinvolgente e per la possibilità di vivere l’esperienza del calcio in modo molto realistico."
   "piattaforme": [
-    "Playstation",
-    "Xbox",
+    "PLAYSTATION",
+    "XBOX",
     "PC",
-    "Switch"
+    "SWITCH"
   ],
   "pegi": "3",
+  "anno": "2025",
   "imgPath": "img/FC26.jpeg",
   "crossPlay": true
 },
@@ -103,11 +111,13 @@
   ],
   "prezzo": "27.99",
   "studio": "Naughty Dog LLC",
+  "desc":"The Last of Us Part II è un videogioco d’azione e avventura ambientato in un mondo post-apocalittico. Il giocatore segue la storia di Ellie in un viaggio intenso e pieno di emozioni, tra pericoli, nemici e momenti drammatici. Il gioco combina esplorazione, combattimenti e una trama molto profonda, ed è famoso per la grafica realistica e la storia coinvolgente."
   "piattaforme": [
-    "Playstation",
+    "PLAYSTATION",
     "PC"
   ],
   "pegi": "18",
+  "anno": "2020",
   "imgPath": "img/LAST.jpeg",
   "crossPlay": false
 },
@@ -125,11 +135,13 @@
   ],
   "prezzo": "59.99",
   "studio": "Santa Monica Studio",
+  "desc":"God of War Ragnarök è un videogioco d’azione e avventura ispirato alla mitologia norrena. Il giocatore controlla Kratos, insieme a suo figlio Atreus, in un viaggio epico tra diversi regni per affrontare dèi e creature leggendarie. Il gioco unisce combattimenti spettacolari, esplorazione e una storia emozionante, con grafica molto realistica e grande attenzione ai dettagli."
   "piattaforme": [
     "PC",
     "PLAYSTATION"
   ],
   "pegi": "18",
+  "anno": "2022",
   "imgPath": "img/GOD.jpeg",
   "crossPlay": false
 },
@@ -151,6 +163,7 @@
   ],
   "prezzo": "49.99",
   "studio": "CAPCOM Co",
+  "desc":"Resident Evil Village è un videogioco horror e d’azione in prima persona. Il giocatore controlla Ethan Winters, che esplora un misterioso villaggio pieno di creature spaventose e pericoli. Il gioco unisce momenti di paura, combattimenti e risoluzione di enigmi. È famoso per l’atmosfera inquietante, la grafica realistica e i suoi personaggi memorabili."
   "piattaforme": [
     "PC",
     "PLAYSTATION",
@@ -158,6 +171,7 @@
     "SWITCH"
   ],
   "pegi": "18",
+  "anno": "2021",
   "imgPath": "img/VILLAGE.jpeg",
   "crossPlay": false
 },
@@ -177,12 +191,14 @@
   ],
   "prezzo": "59.99",
   "studio": "From Software",
+  "desc":"Elden Ring è un videogioco di ruolo e azione ambientato in un mondo fantasy oscuro e vastissimo. Il giocatore esplora liberamente un grande mondo aperto, affronta nemici potenti e boss impegnativi, e può personalizzare il proprio personaggio. È famoso per la difficoltà elevata, l’atmosfera misteriosa e la grande libertà di esplorazione."
   "piattaforme": [
     "PC",
     "PLAYSTATION",
     "XBOX"
   ],
   "pegi": "16",
+  "anno": "2022",
   "imgPath": "img/ELDEN.jpeg",
   "crossPlay": true
 },
@@ -200,6 +216,7 @@
   ],
   "prezzo": "29.99",
   "studio": "CD PROJEKT RED",
+  "desc":"Cyberpunk 2077 è un videogioco di ruolo e azione ambientato in un futuro futuristico nella città di Night City. Il giocatore controlla V, un mercenario che può essere personalizzato, e svolge missioni tra tecnologia avanzata, armi potenti e potenziamenti cibernetici. Il gioco è famoso per la sua ambientazione dettagliata, la storia coinvolgente e la libertà di scelta nelle missioni."
   "piattaforme": [
     "PC",
     "PLAYSTATION",
@@ -207,6 +224,7 @@
     "SWITCH"
   ],
   "pegi": "18",
+  "anno": "2020",
   "imgPath": "img/CYBER.jpeg",
   "crossPlay": true
 },
@@ -223,6 +241,7 @@
   ],
   "prezzo": "34.99",
   "studio": "2K",
+  "desc":"NBA 2K26 è un videogioco di simulazione di basket molto realistico. Il giocatore può controllare squadre e giocatori reali della NBA, partecipare a partite, tornei e modalità carriera, o creare il proprio giocatore personalizzato. Il gioco è famoso per la grafica dettagliata, il gameplay realistico e le tante modalità online per sfidare altri giocatori."
   "piattaforme": [
     "PC",
     "PLAYSTATION",
@@ -230,6 +249,7 @@
     "SWITCH"
   ],
   "pegi": "3",
+  "anno": "2025",
   "imgPath": "img/NBA.jpeg",
   "crossPlay": true
 },
@@ -246,12 +266,14 @@
   ],
   "prezzo": "29.99",
   "studio": "IO interactive",
+  "desc":"Hitman è un videogioco stealth in cui il giocatore controlla l’Agente 47, un assassino professionista. L’obiettivo è completare missioni eliminando obiettivi in modo strategico e discreto, usando armi, travestimenti e l’ambiente a proprio vantaggio. È famoso per la libertà di scelta nel pianificare gli omicidi e per i livelli ricchi di dettagli."
   "piattaforme": [
     "PC",
     "XBOX",
     "SWITCH"
   ],
   "pegi": "18",
+  "anno": "2021",
   "imgPath": "img/HITMAN.jpeg",
   "crossPlay": false
 },
@@ -272,11 +294,13 @@
   ],
   "prezzo": "69.99",
   "studio": "KOJIMA PRODUCTIONS",
+  "desc":"Death Stranding 2 è un gioco d’azione‑avventura post-apocalittico sviluppato da Kojima Productions. Il giocatore controlla Sam, che attraversa paesaggi pericolosi, consegna carichi e affronta nemici umani e ultraterreni. Il gioco è famoso per la sua storia intensa, l’atmosfera cinematografica e la combinazione di esplorazione, azione e narrazione."
   "piattaforme": [
     "PC",
     "PLAYSTATION"
   ],
   "pegi": "18",
+  "anno": "2025",
   "imgPath": "img/DEATH.jpeg",
   "crossPlay": true
 },
@@ -292,12 +316,14 @@
   ],
   "prezzo": "69.99",
   "studio": "Xbox Games Studios",
+  "desc":"Forza Horizon 5 è un videogioco di corse automobilistiche open‑world. Il giocatore partecipa a gare, sfide e eventi in un grande mondo liberamente esplorabile, con tantissime auto da guidare e personalizzare. Il gioco è famoso per la grafica spettacolare, la varietà di paesaggi e l’esperienza di guida divertente e dinamica."
   "piattaforme": [
     "PC",
     "PLAYSTATION",
     "XBOX"
   ],
   "pegi": "12",
+  "anno": "2021",
   "imgPath": "img/FORZA.jpeg",
   "crossPlay": true
 },{
@@ -316,10 +342,12 @@
   ],
   "prezzo": "69.99",
   "studio": "Sucker Punch Productions",
+  "desc":"Ghost of Yōtei è un videogioco d’azione e avventura uscito nel 2025 per PlayStation 5.È ambientato 300 anni dopo Ghost of Tsushima, ma racconta una storia nuova con una protagonista diversa: Atsu, una mercenaria che attraversa il selvaggio nord del Giappone per vendicare la morte della sua famiglia e sconfiggere i fuorilegge chiamati Yōtei Six"
   "piattaforme": [
     "PLAYSTATION"
   ],
   "pegi": "18",
+  "anno": "2025",
   "imgPath": "img/GHOST.jpeg",
   "crossPlay": false
 },{
@@ -342,12 +370,14 @@
   ],
   "prezzo": "19.99",
   "studio": "Bethesda Game Studio",
+  "desc":"The Elder Scrolls V: Skyrim è un videogioco di ruolo e avventura in un grande mondo aperto fantasy. Il giocatore esplora la provincia di Skyrim, completa missioni, combatte draghi e mostri, e può personalizzare il proprio personaggio con abilità, armi e magie. È famoso per la libertà di scelta, l’esplorazione e la storia epica."
   "piattaforme": [
     "PLAYSTATION",
     "PC",
     "XBOX"
   ],
   "pegi": "18",
+  "anno": "2011",
   "imgPath": "img/SKYRIM.jpeg",
   "crossPlay": false
 }
@@ -355,3 +385,4 @@
 
 
 ]
+
