@@ -606,10 +606,45 @@
   "anno": "2024",
   "imgPath": "img/SILENT.jpeg",
   "crossPlay": false
+},{
+  "nome": "Fallout 4",
+  "tag": [
+    "Action",
+    "Adventure",
+    "Building",
+    "Co-op",
+    "Combat",
+    "Crafting",
+    "Creative",
+    "Exploration",
+    "Farming",
+    "First-person",
+    "Indie",
+    "Multiplayer",
+    "Open-world",
+    "Rpg",
+    "Singleplayer",
+    "Story-driven",
+    "Survival"
+  ],
+  "prezzo": "19.99",
+  "studio": "Bethesda Game Studios",
+  "desc": "Fallout 4 è un gioco di ruolo d’azione altamente personalizzabile in stile sandbox. Se ami i giochi strettamente controllati e disciplinati, questo potrebbe non essere adatto a te in quanto hai scelta e visione in praticamente in tutto quel che vedi, fai e nei viaggi che intraprendi.",
+  "piattaforme": [
+    "PLAYSTATION",
+    "XBOX",
+    "PC",
+    "SWITCH"
+  ],
+  "pegi": "18",
+  "anno": "2015",
+  "imgPath": "img/FALLOUT.jpeg",
+  "crossPlay": false
 }
 
 
 
 ]
+
 
 
